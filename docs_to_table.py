@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # This program converts newline-seperated (as coppied from google docs) tables
 # into a plain, validating HTML table
 # Written by Alex Leute - 6/20/2022
